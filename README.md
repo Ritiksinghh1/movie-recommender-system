@@ -24,12 +24,6 @@ CineMatch is a content-based movie recommendation system built with Python and S
 
 ---
 
-## 🖥️ Demo
-
-![CineMatch Demo](assets/demo.png)
-
-> *(Add a screenshot of your running app here)*
-
 ---
 
 ## 🗂️ Project Structure
